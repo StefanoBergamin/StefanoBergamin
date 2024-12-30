@@ -4,3 +4,4 @@
 - [Musical Product Comparator](https://github.com/StefanoBergamin/ps-parallel.git)
 ### :electric_plug: Connect with me:
 - [Stefano on **LinkedIn**](https://www.linkedin.com/in/stefano-bergamin-a8920421b)
+- <a href="https://www.linkedin.com/in/stefano-bergamin-a8920421b" target="_blank">Stefano on <b>LinkedIn</b></a>
